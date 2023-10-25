@@ -1,15 +1,15 @@
-.plants {
+.main {
   width: 1200px;
   display: flex;
   justify-content: space-between;
   margin-top: 80px;
 }
 
-.plants__container {
+.main__container {
   width: 557px;
 }
 
-.plants__text {
+.main__text {
   width: 205px;
   margin-bottom: 7px;
   line-height: 16px;
@@ -17,7 +17,7 @@
   font-weight: 400;
 }
 
-.plants__title {
+.main__title {
   width: 530px;
   margin-bottom: 5px;
   line-height: 70px;
@@ -25,11 +25,11 @@
   font-weight: 900;
 }
 
-.plants__title_type_color_green {
+.main__title_type_color_green {
   color: #46a358;
 }
 
-.plants__subtitle {
+.main__subtitle {
   width: 557px;
   margin-bottom: 44px;
   color: #727272;
@@ -38,7 +38,7 @@
   font-weight: 400;
 }
 
-.plants__button {
+.main__button {
   width: 140px;
   height: 40px;
   line-height: 20px;
@@ -50,7 +50,8 @@
   border-radius: 6px;
 }
 
-.plants__image {
+.main__image {
   width: 518px;
   height: 518px;
+  margin-top: -50px;
 }

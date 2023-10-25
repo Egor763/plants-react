@@ -1,0 +1,69 @@
+.sidebar {
+  width: 310px;
+  margin-top: 26px;
+}
+
+.sidebar__categories {
+  width: 310px;
+  margin-bottom: 36px;
+}
+
+.sidebar__categories-title {
+  width: 93px;
+}
+
+.sidebar__categories-links {
+  width: 310px;
+  margin-top: 7px;
+}
+
+.sidebar__categories-links-item {
+  width: 310px;
+}
+
+.sidebar__categories-link {
+  width: 310px;
+}
+
+.sidebar__categories-number {
+}
+
+.sidebar__range {
+  width: 226px;
+}
+
+.sidebar__range-title {
+}
+
+.sidebar__range-container {
+  width: 214px;
+}
+
+.sidebar__range-image {
+  width: 214px;
+}
+
+.sidebar__range-button {
+  width: 90px;
+  height: 35px;
+}
+
+.sidebar__size {
+  width: 268px;
+}
+
+.sidebar__size-title {
+  width: 34px;
+}
+
+.sidebar__size-links {
+  width: 268px;
+}
+
+.sidebar__size-links-item {
+  width: 268px;
+}
+
+.sidebar__size-link {
+  width: 268px;
+}
