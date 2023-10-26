@@ -1,5 +1,6 @@
 import './Sidebar.css';
 import image from '../../images/images/Group 106.png';
+import superSale from '../../images/images/Super Sale Banner.png';
 
 export function Sidebar() {
   return (
@@ -64,6 +65,7 @@ export function Sidebar() {
           </li>
         </ul>
       </div>
+      <img className='sidebar__image' src={superSale} alt='Картинка'></img>
     </div>
   );
 }

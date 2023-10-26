@@ -1,6 +1,9 @@
 .sidebar {
   width: 310px;
   margin-top: 26px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
 }
 
 .sidebar__categories {
@@ -23,6 +26,7 @@
 
 .sidebar__categories-link {
   width: 310px;
+  color: black;
 }
 
 .sidebar__categories-number {
@@ -66,4 +70,11 @@
 
 .sidebar__size-link {
   width: 268px;
+  color: black;
+}
+
+.sidebar__image {
+  width: 370px;
+  height: 470px;
+  align-self: center;
 }

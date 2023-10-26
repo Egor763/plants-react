@@ -1,0 +1,25 @@
+.card {
+  width: 250px;
+}
+
+.card__image {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 31px;
+}
+
+.card__name {
+  width: 152px;
+  margin-bottom: 6px;
+  line-height: 16px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.card__price {
+  width: 62px;
+  line-height: 16px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #46a358;
+}

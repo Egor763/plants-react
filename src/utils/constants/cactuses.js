@@ -1,4 +1,4 @@
-const cactuses = [
+export const cactuses = [
   {
     image:
       'https://static.insales-cdn.com/images/products/1/3235/614444195/large_IMG_0176.jpg',

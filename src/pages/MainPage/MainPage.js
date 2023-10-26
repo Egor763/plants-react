@@ -5,10 +5,10 @@ import { Cards } from '../../components/Cards/Cards';
 
 export function MainPage() {
   return (
-    <>
+    <div className='mainPage'>
       <Main />
       <Sidebar />
       <Cards />
-    </>
+    </div>
   );
 }

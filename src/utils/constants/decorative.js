@@ -1,4 +1,4 @@
-const decorativePlants = [
+export const decorativePlants = [
   {
     image:
       'https://static.insales-cdn.com/images/products/1/2570/202451466/large_IMG_5161_1.jpeg',
