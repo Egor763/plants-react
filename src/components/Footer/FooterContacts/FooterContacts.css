@@ -1,0 +1,24 @@
+.contacts {
+  width: 1200px;
+  height: 88px;
+  background: rgba(70, 163, 88, 0.1);
+  display: flex;
+  align-items: center;
+  padding-left: 23px;
+}
+
+.contacts__logo {
+  width: 150px;
+  height: 34px;
+  margin-right: 87px;
+}
+
+.contacts__text {
+  line-height: 18px;
+  font-size: 14px;
+  font-weight: 400;
+  width: 190px;
+  display: flex;
+  gap: 9px;
+  margin-right: 90px;
+}
